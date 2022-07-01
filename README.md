@@ -21,6 +21,16 @@ There are a couple of things here that could be tackled if I had given it more t
    - Open Navigation bar from Left as per the designs
    - close navigation on clicking a link
 
+ - Booking Form
+   - Add more robust form validation
+   - Select a better time picker
+   - mock out calls to get available desks after location, date and times were selected
+
+- Booking Table
+  - Display message when no bookings are available
+
+- Testing
+  - Application testing could be finalised
 
 
 
