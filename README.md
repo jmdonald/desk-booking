@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+# Desk Booking App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+and styled with [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap)
 
-## Available Scripts
+## To Run App
 
 In the project directory, you can run:
 
@@ -10,8 +11,18 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-Runs a json server development mode.\
-Open [http://localhost:5000](http://localhost:5000) to view it in your browser.
+
+Runs a json server development mode.\ for mocking endpoints
+Open [http://localhost:5000/deskBooking](http://localhost:5000/deskBooking) to view it in your browser.
+
+## To Do
+There are a couple of things here that could be tackled if I had given it more time
+ - Navagation Component
+   - Open Navigation bar from Left as per the designs
+   - close navigation on clicking a link
+
+
+
 
 
 
