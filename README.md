@@ -5,8 +5,10 @@ and styled with [React Bootstrap](https://github.com/react-bootstrap/react-boots
 
 ## To Run App
 
-In the project directory, you can run:
+In the project directory, ensure all dependancies are installed by running:
+### `npm install`
 
+To start app you can run:
 ### `npm run dev`
 
 Runs the app in the development mode.\
